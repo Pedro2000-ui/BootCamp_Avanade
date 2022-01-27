@@ -1,0 +1,39 @@
+Lógica de Programação - BootCamp Avanade
+
+Abstração: Habilidade de se concentrar 
+apenas nos aspectos essenciais.
+
+Nota 1 + Nota 2 + Nota 3 + Nota 4 / 4
+
+
+Algoritmos e pseudocódigo:
+
+Algoritmo - Sequência de passos para resolver
+um problema;
+Pseudocódigo - Forma genérica de se escrever um algoritmo
+utilizando uma linguagem simples (nativa);
+
+Fluxograma, Variaveis, Constantes e tipos de dados:
+
+Fluxograma - Ferramenta para representar
+graficamente o algoritmo;
+Constante - Valores imutáveis durante o programa
+
+Tomadas de decisão e expressões:
+
+Operadores relacionais: Expressões compostas
+por outras expressões numéricas com operadores
+relacionais.
+operadores relacionais são: igual, diferente, maior, 
+menor, maior ou igual, menor ou igual.
+
+Tomadas de decisão:
+O que fazer dependendo de alguma condição encontrada
+durante a execução.
+
+
+Concatenação:
+Designar a operação de unir o conteúdo de 
+duas strings
+
+String - Sequência de caracteres

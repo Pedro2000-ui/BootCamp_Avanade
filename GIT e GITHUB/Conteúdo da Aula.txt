@@ -1,0 +1,57 @@
+Git e GitHub
+
+Controle de Versão
+Armazenamento em nuvem
+Trabalho em equipe
+Melhorar seu código
+Reconhecimento
+
+
+cd / - foi para diretório C
+dir - mostra todo o conteúdo de um diretório
+cd .. - retrocede 1
+cls - limpa o terminal
+mkdir - cria uma pasta
+echo - printa de volta no terminal uma frase
+> - redireciona o fluxo pra um arquivo
+.txt - arquivo
+del - só deleta arquivo
+rmdir /S /Q - exclui tudo
+TAB - Autocompleta o texto
+Seta pra cima - Retorna os últimos comandos
+
+
+
+GIT por baixo dos panos:
+SHA - Algoritmo de Hash; encriptação gera 
+conjunto de caracteres identificador de 40 dígitos
+openssl sha1 nome do arquivo - verificar o que acontece debaixo dos panos (Os 40 dígitos que a 
+encriptação gera)
+
+Objetos do git:
+Bloobs -  
+Trees -
+Commits -
+
+- git init - Iniciar
+- git add nomedoarquivo
+- git add * - com asterisco ja adiciona tudo de uma vez
+- git commit -m "qual commit é"- para comitar um arquivo/pasta
+- git status - verificar o status dos arquivos/pasta, para ver se é necessário utilizar o git add* ou git add nomedoarquivo para add o mesmo no git
+ls - para listar (no git)
+ls -a - mostra arquivos ocultos
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+mv ./ - move o arquivo para pasta da frente
+
+git push origin master - utilizado para 'empurrar' o código do seu ambiente local para o repositório remoto
+git config --list - traz a lista de todas as configurações daquele git
+git config --global --unset user.email - Apaga o email, pra você poder colocar outro por exemplo
+git config --global --unset user.nickname - mesmo esquema do de cima só que com o apelido
+git remote -v - lista os origins
+git remote add origin "link" - adiciona ao nome origin o link lá do git hub
+
+
+Resolvendo conflitos: 
+git pull origin master - puxa do github para a maquina
+git clone link - clona repositório do github para sua máquina

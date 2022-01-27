@@ -1,0 +1,30 @@
+Estrutura de repetição:
+Estrutura que permite executar mais de uma
+vez o mesmo comando ou conjunto de comandos,
+de acordo com uma condição ou com um contador
+
+
+Linguagem de programação:
+Linguagem escrita e formal que específica um
+conjunto de instruções para gerar softwares
+
+Alto nível - Mais próximo da nossa linguagem
+Baixo nível - Mais próximo da máquina, exige conhecimento
+de hardware
+
+Compiladas - Executado diretamente pelo sistema
+operacional ou pelo processador
+
+Interpretadas - Código fonte é executado por um
+programa de computador que em seguida é executado pelo
+sistema operacional ou processador.
+
+Portugol - Pseudolinguagem
+
+Matriz: Coleção de variáveis de mesmo tipo acessíveis com um
+único nome e armazenados na memória.
+
+Matriz - declara uma matriz com linhas e colunas
+Vetor - declara um vetor com apenas posições
+
+ 

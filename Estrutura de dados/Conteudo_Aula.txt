@@ -1,0 +1,66 @@
+Estrutura de dados:
+Estrutura organizada de dados na memória
+de um computador ou em qualquer dispositivo de
+armazenamento
+
+Principais Estruturas de Dados:
+Arrays
+Registro
+Lista
+Pilha
+Fila
+Árvore
+Grafos
+Tabelas Hash
+
+Arrays (vetores e matrizes)
+Estruturas simples que podem auxiliar quando 
+há muitas variáveis do mesmo tipo
+Tamanho fixo
+
+Registro 
+Armazenar dados de tipos diferentes
+
+Listas
+Possuem um tamanho ajustável
+Tipos de listas:
+Ligadas e Duplamente ligadas;
+
+Ligadas - Existem os nós onde cada um dos
+nós conhece o valor que está sendo armazenado
+além de conhecer o elemento posterior a ele
+
+Duplamente Ligadas - São bidirecionais
+sabem quem é o nó posterior e o anterior,
+permitindo a navegação reversa.
+
+Pilhas - Estrutura de dados que serve como
+uma coleção de elementos, e permite o acesso
+a somente um item por vez
+
+Tipos:
+LIFO ou UEPS
+FIFO ou PEPS
+
+LIFO - O primeiro elemento a ser retirado
+é o último que tiver sido inserido
+
+FIFO - o primeiro elemento a ser retirado
+é o primeiro que tiver sido inserido
+
+Filas - Mesmo conceito da pilha FIFO
+
+Arvore - Elementos são colocados de forma hierárquica
+
+Raiz - topo da árvore
+Nós/Folhas - Sub-elementos/Subordinados
+
+Tabelas Hash - Espalha o elementos
+fazendo com que fiquem em uma forma não ordenada
+
+Valores - índice onde o elemento se encontra
+Chave - parte da informação que compõe o elemento
+a ser manipulado
+
+Grafos - programar a relação entre objetos
+

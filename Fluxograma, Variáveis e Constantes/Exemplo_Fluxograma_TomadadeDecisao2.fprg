@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="pholi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-12-20 09:26:04 "/>
+        <attribute name="created" value="cGhvbGk7TEFQVE9QLUo1TzE3UzhJOzIwMjAtMTItMjA7IjA5OjE5OjE5ICI7Mjc2NA=="/>
+        <attribute name="edited" value="cGhvbGk7TEFQVE9QLUo1TzE3UzhJOzIwMjAtMTItMjA7IjA5OjI2OjA0ICI7MTsyODY0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n1, n2, n3, n4, media" type="Real" array="False" size=""/>
+            <input variable="n1"/>
+            <input variable="n2"/>
+            <input variable="n3"/>
+            <input variable="n4"/>
+            <assign variable="media" expression="(n1+n2+n3+n4)/4"/>
+            <output expression="media" newline="True"/>
+            <if expression="media&gt;=7">
+                <then>
+                    <output expression="&quot;Parab&#233;ns!! Voc&#234; foi aprovado&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Infelizmente voc&#234; foi reprovado&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
