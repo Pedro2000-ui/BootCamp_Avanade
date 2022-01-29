@@ -1,0 +1,18 @@
+Conhecendo o C#
+Linguagem orientada a objeto
+Sintaxe similar a do C, C++ ou Java
+
+Os programas C# são executados no .Net que inclui:
+ -CLR (Common Language Runtime)
+ -Conjunto unificado de bibliotecsas de classes
+Compilador - Roslyn
+
+Principais conceitos de organização:
+- Programas
+- Namespaces
+- Tipos
+- Membros
+- Assemblies (.exe ou .dll)
+
+
+

@@ -1,0 +1,49 @@
+Open source - Originalmente, open source é um termo que se refere ao software
+open source (OSS). Ele é um código projetado para ser acessado abertamente 
+pelo público: todas as pessoas podem vê-lo, modificá-lo e distribuí-lo 
+conforme suas necessidades
+
+definição Framework - https://tableless.github.io/iniciantes/manual/js/o-que-framework.html
+
+Cloud - Cloud computing, conhecida também como computação em nuvem, é a 
+tecnologia que permite o uso remoto de recursos da computação por meio da 
+conectividade da Internet. ... Poucos termos foram tão populares no mundo da 
+tecnologia quanto a computação em nuvem.
+
+Runtime - Em informática, tempo de execução ou runtime, é o período em que um
+programa de computador permanece em execução. O termo runtime também pode se 
+referir a uma máquina virtual que gerencia um programa escrito em uma 
+linguagem de computador enquanto está sendo executado.
+
+-----------------//----------------------//-----------------//----------------------
+Microsoft - Começou com criação de linguagens, depois focou em OS. Logo após
+focou na criação de uma nova plataforma chamada .Net cujo objetivo era ter diversas
+linguagens em um mesmo ambiente de desenvolvimento (denominado Visual Studio) com foco apenas em Windowns até 2014, logo após vira a ser Cloud
+atuando no framework .net core, open source e focando em multiplataformas. 
+Atualmente parou de lançar atualizações para .net framework e muda .net core para .net 5 e assim por diante.
+
+Primeiros Passos com .Net
+
+O que é, como e onde usar .Net:
+- Infraestrutura para desenvolvimento de software
+- Cada implementação inclui um ou mais .net runtimes (ambiente de execução)
+ !!Ideia com o .net 5 é unificar!!
+- Suporta C# (principal), F# e VB
+
+
+
+CLI do .net 
+
+dotnet --help
+dotnet new console -n NomeDaPasta - Cria um novo console, onde vc decide o nome da pasta
+dotnet restore - restaura os pacotes
+dotnet build - restaura os pacotes e pega o código fonte faz os processos de compilação e gera os binarios
+dotnet run
+
+explorer . - abre no explorer a pasta que estiver sendo "acessada" no cmd
+code . - abre no visual studio code a pasta que estiver sendo "acessada" no cmd
+
+
+
+
+

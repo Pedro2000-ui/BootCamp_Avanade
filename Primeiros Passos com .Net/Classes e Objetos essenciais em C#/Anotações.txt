@@ -1,0 +1,18 @@
+Classes e Objetos
+
+Classe - Combina estado (campos/propriedades) e ações (metódos)
+
+Membros estáticos (pertencem a classe) ou membros da instância (pertencem ao objeto)
+-public
+-protected
+-internal
+-private
+
+Objetos - Instâncias de uma classe
+
+A memória ocupada por um objeto é recuperada automaticamente quando 
+o objeto não está mais acessível.
+
+Método - Membro que implemente uma computação
+ou ação que pode ser executada por um objeto ou classe
+

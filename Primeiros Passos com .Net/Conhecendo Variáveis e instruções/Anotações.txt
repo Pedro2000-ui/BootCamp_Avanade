@@ -1,0 +1,33 @@
+Conhecendo variáveis e instruções
+
+Tipos de valor:
+ - A própria variável contém os seus dados.
+As variáveis têm sua própria cópia dos dados e não é possível que as operações
+afetem outra variável
+(exceto no caso das variáveis de parâmetro ref e out)
+
+Númericos - Sbyte, shor, int, long, byte, ushort, uint, ulong
+Cacteres Unicode - char
+Pontos Flutuantes - float, double, decimal
+booleano - bool
+
+enum, struct e tipos nullable
+
+Tipos de referência
+- Variáveis armazenam referências a seus dados
+É possível que duas variáveis façam referência ao mesmo objeto
+e, portanto, que operações em uma variável aferem o objeto 
+referenciado pela outra variável.
+Classe - class, object, string
+Arrays - int[], int[,]
+
+interface, delegate
+
+Intruções:
+-Declaração de variáveis e constantes locais
+-if
+-switch
+-while
+-do
+-for
+-foreach
