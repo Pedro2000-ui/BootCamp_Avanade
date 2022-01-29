@@ -1,0 +1,27 @@
+ O que são Structs?
+
+Como as classes, são estruturas de dados que
+podem conter membros de dados e membros de ação,
+mas diferentemente das classes, são tipos de valor
+e não requerem alocação de heap.
+
+heap - O Heap, ou área de alocação dinâmica, é um espaço reservado para variáveis e dados criados durante a execução do programa (runtime). 
+Vamos dizer que o Heap é a memória global do programa.
+
+Uma variável de um tipo struct armazena diretamente
+os dados da estrutura, enquanto uma variável de um tipo de classe armazena 
+uma referência a um objeto alocado na memória.
+
+
+O que são Interfaces?
+
+Define um contrato que pode ser implementado
+por classes e structs
+Não fornece implementações dos membros que define - apenas suas "assinaturas"
+
+Podem empregar herança múltipla
+
+O que são Enums?
+
+Tipo de valor distinto com um conjunto de constantes nomeadas
+

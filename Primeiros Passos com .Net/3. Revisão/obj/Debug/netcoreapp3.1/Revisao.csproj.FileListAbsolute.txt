@@ -1,0 +1,14 @@
+C:\Users\pholi\BootCamp_Avanade\Primeiros Passos com .Net\3. Revisão\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\pholi\BootCamp_Avanade\Primeiros Passos com .Net\3. Revisão\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\pholi\BootCamp_Avanade\Primeiros Passos com .Net\3. Revisão\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\pholi\BootCamp_Avanade\Primeiros Passos com .Net\3. Revisão\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\pholi\BootCamp_Avanade\Primeiros Passos com .Net\3. Revisão\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\pholi\BootCamp_Avanade\Primeiros Passos com .Net\3. Revisão\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\pholi\BootCamp_Avanade\Primeiros Passos com .Net\3. Revisão\obj\Debug\netcoreapp3.1\Revisao.csproj.AssemblyReference.cache
+C:\Users\pholi\BootCamp_Avanade\Primeiros Passos com .Net\3. Revisão\obj\Debug\netcoreapp3.1\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pholi\BootCamp_Avanade\Primeiros Passos com .Net\3. Revisão\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\pholi\BootCamp_Avanade\Primeiros Passos com .Net\3. Revisão\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\pholi\BootCamp_Avanade\Primeiros Passos com .Net\3. Revisão\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\pholi\BootCamp_Avanade\Primeiros Passos com .Net\3. Revisão\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\pholi\BootCamp_Avanade\Primeiros Passos com .Net\3. Revisão\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\pholi\BootCamp_Avanade\Primeiros Passos com .Net\3. Revisão\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
