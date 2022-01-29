@@ -1,0 +1,14 @@
+C:\Users\pholi\source\repos\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.exe
+C:\Users\pholi\source\repos\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.deps.json
+C:\Users\pholi\source\repos\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+C:\Users\pholi\source\repos\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+C:\Users\pholi\source\repos\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\pholi\source\repos\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\pholi\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.AssemblyReference.cache
+C:\Users\pholi\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pholi\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+C:\Users\pholi\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+C:\Users\pholi\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\pholi\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\pholi\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\pholi\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache

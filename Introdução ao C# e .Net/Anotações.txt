@@ -1,0 +1,37 @@
+Introdução ao C# e .Net
+
+O que é .Net?
+- Framework criado pela Microsoft que permite
+a comunicação entre várias linguagens que tem
+uma infraestrutura comum (CLI), entre elas o Visual Basic,
+C++, F# e C#.
+
+O que é o C#?
+- Uma linguagem orientada a objetos fortemente tipada.
+A sintaxe orientada a objetos foi baseada no C++ e possui
+influências de outras linguagens de programação como Object 
+Pascal e Java.
+
+Estruturas
+
+Namespaces - Usados para organizar classes.
+Para usar uma classe de outro namespace, colocamos "using" no começo
+do código.
+
+Classe - Pode ter campos, propriedades, métodos e eventos dentro dela que 
+são denominados membros.
+Quando é instanciada, essa instância é chamada de objeto, e nesse objeto
+podem ser criados os valores de acordo com os campos da classe.
+
+Interface - Classe Base que serve de molde para várias classes
+Uma classe que implemente uma interface deve implementar todos os
+membros.
+
+Enum - Declara um conjunto de constantes nomeadas que começam do 0 e aumentam
+de 1 em 1
+
+Solução - Container para organizar os projetos relacionados
+
+links: https://docs.microsoft.com/pt-br/dotnet/
+
+F10 - Vai linha por linha, conforme você for apertando (Para debugging)
